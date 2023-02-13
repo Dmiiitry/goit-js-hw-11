@@ -38,6 +38,7 @@ async function onFormSubmit(e) {
             loadMoreBtnEl.classList.remove('is-hidden');
     };
 }
+
 }
 
 async function onLoadMore(){
